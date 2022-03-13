@@ -30,11 +30,11 @@ html {
 
 body {
     font-weight: 400;
+    overflow-x:hidden !important;
 }
 
 .container {
     width: 82%;
-    max-width: 100%;
     margin: 0 auto;
 }
 
