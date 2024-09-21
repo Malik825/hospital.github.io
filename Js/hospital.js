@@ -11,8 +11,8 @@ $(function() {
             $('.loader-container').addClass('active')
         }, 1000)
         AOS.init({
-            duration: 800,
-            delay: 200
+            duration: 400,
+            delay: 100
         });
 
     })
