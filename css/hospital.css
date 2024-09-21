@@ -429,6 +429,7 @@ section {
     background: var(--white);
     box-shadow: var(--box-shadow);
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     flex-direction: column;
     justify-content: center;
